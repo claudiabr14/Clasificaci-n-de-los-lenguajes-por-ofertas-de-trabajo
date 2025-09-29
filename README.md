@@ -3,14 +3,14 @@
 
 # Los resultados obtenidos para cada lenguaje.
 ## Nivel España:
-Java: 20.000 resultados
-Python:18.000 resultados
-C#: 2.000 resultados
+Java: 18.000 resultados
+Python:17.000 resultados
+C#: 3 resultados
 C: 300 resultados
-C++: 10.000 resultados
-JavaScript: 18.000 resultados
+C++: 9.000 resultados
+JavaScript: 2.000 resultados
 PHP: 1.000 resultados
-VB .NET: 300 resultados
+VB .NET: 100 resultados
 Ruby: 64 resultados
 
 ## Nivel mundial:
