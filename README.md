@@ -1,8 +1,5 @@
 # Clasificacion-de-los-lenguajes-por-ofertas-de-trabajo
 
-## Filtros:
-
-
 
 # Los resultados obtenidos para cada lenguaje.
 ## Nivel España:
